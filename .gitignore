@@ -1,0 +1,17 @@
+# Spring Boot
+backend/target/
+
+# React
+frontend/node_modules/
+frontend/build/
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment Variables
+.env
